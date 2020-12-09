@@ -7,6 +7,8 @@ Image assessment results can then be seen in Tenable.io's web interface.
 
 
 To run, make sure you have the following environment variables set:
+```
 export TIO_ACCESS_KEY=******
 export TIO_SECRET_KEY=******
 python3 tiocs-docker-connector.py 
+```
